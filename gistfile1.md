@@ -25,7 +25,7 @@ http://docs.getmura.com/v6/installation-setup/settingsinicfm-reference/
 	imageinterpolation=highestQuality
 	locale=Server
 	logevents=0
-	loginStrikes=4 // Note: references as loginstrike in reference
+	loginStrikes=4 // Note: Defined as loginstrike in Reference
 	mailserverip=
 	mailserverpassword=
 	mailserverpopport=110
